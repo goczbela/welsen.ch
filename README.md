@@ -2,4 +2,4 @@
 
 ## The website of the company
 
-### HTML, CSS, JS,
+### HTML, CSS, JS, PHP, MySQL
