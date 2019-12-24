@@ -1,1 +1,1 @@
-console.log("nemáá");
+console.log("aszta");
